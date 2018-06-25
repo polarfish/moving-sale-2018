@@ -3,16 +3,24 @@ Moving sale static site (powered by Hugo)
 
 ### Running the site
 
+The site runs on http://localhost:1313/
+
 ###### Windows
 
 ```> run```
 
-Navigate to http://localhost:1313/
+###### Linux
+
+```$ ./run``` 
 
 ### Building the site
+
+The result files are put into _public_ directory
 
 ###### Windows
 
 ```> build```
 
-The result site will be in the directory _public_
+###### Linux
+
+```$ ./build``` 
