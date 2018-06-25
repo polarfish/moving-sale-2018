@@ -1,0 +1,4 @@
+baseURL = "http://sale.polarfish.space/"
+languageCode = "en-us"
+title = "Распродажа"
+theme = "hugo-shopping-product-catalogue-simple"
