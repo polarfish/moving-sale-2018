@@ -1,4 +1,7 @@
 baseURL = "http://sale.polarfish.space/"
 languageCode = "en-us"
-title = "Распродажа"
+title = "Распродажа в связи с переездом"
 theme = "hugo-shopping-product-catalogue-simple"
+[Params]
+contacts = "Модиин, Адар 15, 054-717-21-88"
+whatsappLink = "https://wa.me/972547172188"
