@@ -1,7 +1,7 @@
 {{ define "main" }}
 <header>
     <h1 class="text-center">{{ .Site.Title }}</h1>
-    <h4 class="text-center">{{ .Site.Params.contacts }} <a href="{{ .Site.Params.whatsappLink }}" target="_blank"><img src="/img/wa.png"></a></h4>
+    {{ partial "products/common/contacts.html" . }}
 </header>
 <article class="container-fluid">
     <div class="row">
