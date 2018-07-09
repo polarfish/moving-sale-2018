@@ -5,7 +5,7 @@
     "categories": ["Машина"],
     "images": ["/img/car/1.jpg", "/img/car/2.jpg", "/img/car/3.jpg"],
     "thumbnailImage": "/img/car/thumbnail.jpg",
-    "actualPrice": "₪ 22,500",
+    "actualPrice": "₪ 23,000",
     "comparePrice": "",
     "inStock": true,
     "options": {},
