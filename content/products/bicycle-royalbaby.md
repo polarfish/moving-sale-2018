@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/bicycle-royalbaby/thumbnail.jpg",
     "actualPrice": "₪ 100",
     "comparePrice": "",
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }

@@ -1,8 +1,11 @@
 <h1>{{ .Title }}</h1>
 <p>
-    <span class="product-compare-price"style="text-decoration: line-through">{{ .Params.comparePrice }}</span>
-    <span class="product-actual-price">{{ .Params.actualPrice }}</span>
-    <span class="product-not-in-stock" class="font-weight-bold" {{ if .Params.inStock }} style="display:none" {{end}}>— Sold Out</span>
+    {{ if .Params.inStock }}
+        <span class="product-compare-price"style="text-decoration: line-through">{{ .Params.comparePrice }}</span>
+        <span class="product-actual-price">{{ .Params.actualPrice }}</span>
+    {{else}}
+        <span class="product-not-in-stock font-weight-bold text-muted">Продано</span>
+    {{end}}
 </p>
 <p>
     {{ range $index, $element := .Params.options }}
