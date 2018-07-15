@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/kidStorage/thumbnail.jpg",
     "actualPrice": "₪ 250",
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }

@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/kidChair/thumbnail.jpg",
     "actualPrice": "₪ 60",
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }

@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/kidDesk/thumbnail.jpg",
     "actualPrice": "₪ 90",
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }

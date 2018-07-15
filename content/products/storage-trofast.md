@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/storageTrofast/thumbnail.jpg",
     "actualPrice": "₪ 350",
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
