@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/car/thumbnail.jpg",
     "actualPrice": "₪ 23,000",
     "comparePrice": "",
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
