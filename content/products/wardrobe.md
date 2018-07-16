@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/wardrobe/thumbnail.jpg",
     "actualPrice": "₪ 400",
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
