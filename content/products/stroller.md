@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/stroller/thumbnail.jpg",
     "actualPrice": "₪ 200",
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
 	
     "variants": []
 }
