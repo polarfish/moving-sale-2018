@@ -5,7 +5,7 @@
     "categories": ["Велосипеды"],
     "images": ["/img/bicycle-avenue/1.jpg"],
     "thumbnailImage": "/img/bicycle-avenue/thumbnail.jpg",
-    "actualPrice": "₪ 400 (+ ₪ 150 за детское сиденье)",
+    "actualPrice": "₪ 400 (+ ₪ 100 за детское сиденье)",
     "comparePrice": "",
     "inStock": true,
     "options": {},
