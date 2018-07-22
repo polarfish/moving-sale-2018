@@ -7,8 +7,8 @@
     "thumbnailImage": "/img/fridge/thumbnail.jpg",
     "actualPrice": "₪ 1,800",
     "comparePrice": null,
-    "inStock": true,
-	
+    "inStock": false,
+
     "variants": []
 }
 

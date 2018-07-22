@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/officeChair/thumbnail.jpg",
     "actualPrice": "₪ 120",
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
