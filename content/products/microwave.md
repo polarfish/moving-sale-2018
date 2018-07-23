@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/microwave/thumbnail.jpg",
     "actualPrice": "₪ 150",
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }

@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/bicycle-holder/thumbnail.jpg",
     "actualPrice": "₪ 120",
     "comparePrice": "",
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
