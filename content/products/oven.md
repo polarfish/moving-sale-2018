@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/oven/thumbnail.jpg",
     "actualPrice": "₪ 900",
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
 	
     "variants": []
 }
